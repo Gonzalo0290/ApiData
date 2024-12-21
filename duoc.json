@@ -17,7 +17,7 @@
       "password": "gonzalo00",
       "carrera": "informatica",
       "isactive": "true"
-    },
+    }
   ],
   "items": [
     {
@@ -34,7 +34,7 @@
     "id": "3",
     "nombre": "pisco",
     "cantidad": "4"
-    },
+    }
       ],
   "clases": [
     {
