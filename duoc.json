@@ -19,21 +19,21 @@
       "isactive": "true"
     },
   ],
-  "items":[
+  "items": [
     {
-    "id":"1",
-    "nombre":"limon",
-    "cantidad":"10"
+    "id": "1",
+    "nombre": "limon",
+    "cantidad": "10"
     },
     {
-    "id":"2",
-    "nombre":"ron",
-    "cantidad":"3"
+    "id": "2",
+    "nombre": "ron",
+    "cantidad": "3"
     },
     {
-    "id":"3",
-    "nombre":"pisco",
-    "cantidad":"4"
+    "id": "3",
+    "nombre": "pisco",
+    "cantidad": "4"
     },
       ],
   "clases": [
